@@ -1,5 +1,5 @@
 # Orchestrated-Microservices-orderService
-Um microserviço que gerencia pedidos dos clientes. Parte de uma demonstração de arquitetura de microserviços em uma solução web. Este repositório especifico contem um microserviço responsavel pelo gerencimaneto dos pedidos dos clientes.  
+Parte de uma demonstração de arquitetura de microserviços em uma solução web ultilizando Spring Boot, Angular, Docker e Kubernetes. Este repositório especifico contem um microserviço responsavel pelo gerencimaneto dos pedidos dos clientes.  
 
 Caracteristicas do Projeto:  
 - Microserviço de pedidos foi desenvolvido em Spring Boot, se comunica com o banco de dados através de APIs REST
